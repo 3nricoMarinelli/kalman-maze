@@ -1,0 +1,40 @@
+# Keil uVision build artifacts
+Debug/
+Release/
+DebugConfig/
+RTE/
+*.uvguix
+*.uvguix.*
+*.uvoptx
+*.axf
+*.htm
+*.lnp
+*.map
+*.sct
+*.dep
+*.d
+*.o
+*.bak
+*.bak2
+
+# GCC/Makefile build artifacts
+build/
+*.elf
+*.bin
+*.hex
+
+# Object files
+*.obj
+*.lib
+
+# Listings
+*.lst
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
